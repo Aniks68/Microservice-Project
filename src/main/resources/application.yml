@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Aniks68/Microservice-Project.git
+          uri: https://github.com/Aniks68/Spring-Cloud-Config-Server.git
 #          /* TODO: switch URL to properties repo */
 
 
